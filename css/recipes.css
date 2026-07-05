@@ -1,0 +1,35 @@
+/* Recepes pages styles */
+
+body {
+    background-color: #D7C49EFF;
+    color: #343148FF;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    text-align: center;   
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    text-decoration:underline;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    padding: 10px;
+    background-color:color-mix(in srgb, #343148FF 50%, #D7C49EFF 50%);
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    align-items: center;
+    list-style:square;
+    list-style-position:inside;
+}

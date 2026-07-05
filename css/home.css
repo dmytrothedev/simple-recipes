@@ -32,3 +32,8 @@ a{
     text-decoration: none;
     color: inherit;
 }
+
+ul {
+    padding-inline-start: 0px;
+}
+
